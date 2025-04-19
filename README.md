@@ -1,2 +1,2 @@
-# node-lowdb
+# Node-lowDB
 Node, Express, LowDB
